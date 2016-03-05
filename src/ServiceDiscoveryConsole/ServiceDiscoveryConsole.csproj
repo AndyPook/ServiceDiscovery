@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\ServiceDiscovery.csproj">
+    <ProjectReference Include="..\ServiceDiscovery\ServiceDiscovery.csproj">
       <Project>{b05c1900-6b3d-4150-bfd5-331a70c9b5e4}</Project>
       <Name>ServiceDiscovery</Name>
     </ProjectReference>
